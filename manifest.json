@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "CreativeRusBear's FPS extension",
+  "description": "FPS extension",
+  "version": "0.1",
+  "browser_action":{
+    "default_icon": "speedometer.png"
+  },
+  "permissions":[
+    "activeTab"
+  ],
+  "content_scripts":[
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["fps.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "background":{
+    "scripts": ["background.js"]
+  }
+}
