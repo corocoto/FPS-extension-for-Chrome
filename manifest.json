@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "CreativeRusBear's FPS extension",
-  "description": "FPS extension",
-  "version": "0.1",
+  "description": "FPS extension for Chrome",
+  "version": "1.0",
   "browser_action":{
     "default_icon": "speedometer.png"
   },
