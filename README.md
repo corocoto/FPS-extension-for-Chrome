@@ -4,6 +4,8 @@
   <li>
     <h3>Описание</h3>
     <p>CreativeRusBear's FPS extension - это расширение для Google Chrome, предназначенное для мониторинга частоты кадров (FPS) в браузере. Данное расширение имеет простой и понятный интерфейс.</p>
+    <img src="https://lh3.googleusercontent.com/XfwkHfurUEpRox2FeYCDIVI9tNkHQz6tISm93j3nHp7Vy9aUM1mScgE3MJ6aNTW3_0nc7V0q=w640-h400-e365" width="415">
+    <img src="https://lh3.googleusercontent.com/lbhWDCWajl56Z2og9WNfMunZsXSOxnjGK8q_qHiOu-U1i_16n8VNc30WNTCgKUIwI2kESpgq=w640-h400-e365" width="415">
   <li>
     <h3>Установка</h3>
     <p>Данное расширение можно установить двумя различными способами:</p>
