@@ -1,4 +1,11 @@
 <h1>FPS extension for Chrome</h1>
+<p>
+<img src="https://img.shields.io/chrome-web-store/users/pplfkfelndgidjmndlgnbelpomclmelm.svg">
+<img src="https://img.shields.io/github/repo-size/CreativeRusBear/FPS-extension-for-Chrome.svg">
+<img src="https://img.shields.io/chrome-web-store/stars/pplfkfelndgidjmndlgnbelpomclmelm.svg">
+<img src="https://img.shields.io/chrome-web-store/v/pplfkfelndgidjmndlgnbelpomclmelm.svg">
+<img src="https://img.shields.io/github/manifest-json/v/CreativeRusBear/FPS-extension-for-Chrome.svg" alt="manifest version">
+</p>
 <nav>
   <ul>
   <li>
