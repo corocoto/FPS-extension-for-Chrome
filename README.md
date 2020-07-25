@@ -23,7 +23,7 @@
         <p align="left">После этого появится следующее модальное окно, котором вам необходимо нажать на кнопку "Установить расширение".</p>
         <p><b>Процесс установки завершен!</b></p>
       <li><h4>С помощью <a href="https://github.com/CreativeRusBear/FPS-extension-for-Chrome">GitHub</a></h4>
-        <img src="https://user-images.githubusercontent.com/37180024/50356071-c49b7600-0561-11e9-9bfd-a5816fdf3ada.jpg" align="right">
+        <img src="https://user-images.githubusercontent.com/37180024/88452644-1a847e00-ce69-11ea-93f4-dc3281b59bec.png" align="right">
         <p align="left">Перейдите по ссылке, которая находится выше. Она перебросит вас на нужную страницу.</p>
         <p align="left">Далее нажмите на кнопку "Clone or download". После чего появится следующее окошко, в котором небходимо нажать на кнопку "Download ZIP".</p>
         <p align="left">После этого у вас скачается следующий zip-архив "FPS-extension-for-Chrome-master.zip", который необходимо распаковать.</p>
